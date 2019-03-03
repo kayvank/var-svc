@@ -1,0 +1,10 @@
+{
+  "aurora-database-isUp": true,
+  "builtAtMillis": "1489436245137",
+  "name": "var-svc",
+  "scalaVersion": "2.11.8",
+  "buildInfoBuildNumber": "3",
+  "version": "1.0",
+  "sbtVersion": "0.13.13",
+  "builtAtString": "2017-03-13 20:17:25.137"
+}

@@ -1,0 +1,298 @@
+{
+  "contentProvider": "UMGI",
+  "year": 2016,
+  "copyright": "(C) 2016 Universal Island Records, a division of Universal Music Operations Limited",
+  "duration": "00:03:42.5270000",
+  "durationInMilliseconds": 222527,
+  "hasLyrics": false,
+  "isExplicit": false,
+  "allowEmbed": true,
+  "allowMobile": true,
+  "isPremiere": false,
+  "isUnlisted": false,
+  "isLive": false,
+  "isLift": false,
+  "isCertified": false,
+  "isOriginalContent": false,
+  "isPrivate": false,
+  "isActive": true,
+  "isDeleted": false,
+  "isOfficial": true,
+  "isContentProviderOriginal": false,
+  "isHd": true,
+  "isPseudoVideo": false,
+  "isPremiumLyricVideo": false,
+  "isInterview": false,
+  "isDocumentary": false,
+  "isBehindTheScenes": false,
+  "isSpecialEvent": false,
+  "isTeaser": false,
+  "isEpk": false,
+  "isLongForm": false,
+  "startDate": "2016-02-10T00:00:00Z",
+  "youTubeId": "LkEOTA1iy6c",
+  "buyLinks": [
+    {
+      "vendor": "Amazon",
+      "country": "US",
+      "isEnabled": true,
+      "affiliateUrl": "http://www.amazon.com/dp/B019KTEFF2/?tag=vevo-20",
+      "id": 233424252,
+      "type": "MP3",
+      "url": "http://www.amazon.com/dp/B019KTEFF2",
+      "created": "2016-02-08T11:05:13.037Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "AI",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/ai/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "id": 233424234,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/ai/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.087Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "AU",
+      "isEnabled": true,
+      "affiliateUrl": "http://t.dgm-au.com/c/48040/40500/1152?u=https:%2f%2fitunes.apple.com%2fau%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d1002",
+      "id": 233424235,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/au/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.11Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "BM",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/bm/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "id": 233424236,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/bm/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.123Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "BR",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fbr%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424237,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/br/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.137Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "CA",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/ca/album/house-of-moody/id1069476839?i=1069476842&at=11lmvn",
+      "id": 233424238,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/ca/album/house-of-moody/id1069476839?i=1069476842&uo=4",
+      "created": "2016-02-08T11:05:12.16Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "KY",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/ky/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "id": 233424239,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/ky/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.18Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "FR",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2ffr%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424240,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/fr/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.193Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "DE",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fde%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424241,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/de/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.22Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "IE",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fie%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424242,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/ie/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.24Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "IT",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fit%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424243,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/it/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.257Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "MX",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/mx/album/house-of-moody/id1069476839?i=1069476842&at=11lmvn",
+      "id": 233424244,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/mx/album/house-of-moody/id1069476839?i=1069476842&uo=4",
+      "created": "2016-02-08T11:05:12.27Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "NL",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fnl%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424245,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/nl/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.283Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "NZ",
+      "isEnabled": true,
+      "affiliateUrl": "http://t.dgm-au.com/c/48040/40500/1152?u=https:%2f%2fitunes.apple.com%2fnz%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d1002",
+      "id": 233424246,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/nz/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.297Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "PL",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fpl%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424247,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/pl/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.32Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "ES",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fes%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424248,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/es/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.343Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "GB",
+      "isEnabled": true,
+      "affiliateUrl": "http://clk.tradedoubler.com/click?p=23708&a=1944192&url=https:%2f%2fitunes.apple.com%2fgb%2falbum%2fhouse-of-moody%2fid1068149221%3fi%3d1068149228%26partnerId%3d2003",
+      "id": 233424249,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/gb/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.36Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "US",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/us/album/house-of-moody/id1069476839?i=1069476842&at=11lmvn",
+      "id": 233424250,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/us/album/house-of-moody/id1069476839?i=1069476842&uo=4",
+      "created": "2016-02-08T11:05:12.38Z"
+    },
+    {
+      "vendor": "iTunes",
+      "country": "VG",
+      "isEnabled": true,
+      "affiliateUrl": "https://itunes.apple.com/vg/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "id": 233424251,
+      "type": "MP3",
+      "url": "https://itunes.apple.com/vg/album/house-of-moody/id1068149221?i=1068149228&uo=4",
+      "created": "2016-02-08T11:05:12.403Z"
+    }
+  ],
+  "credits": [
+    {
+      "name": "Director",
+      "value": "Toby Lockerbie"
+    },
+    {
+      "name": "Producer",
+      "value": "Ben Cullum"
+    },
+    {
+      "name": "Composer",
+      "value": "Harley Sylvester"
+    },
+    {
+      "name": "Producer",
+      "value": "Ben Smallwood"
+    },
+    {
+      "name": "Composer",
+      "value": "Ben Cullum"
+    },
+    {
+      "name": "Director",
+      "value": "Harry Cauty"
+    },
+    {
+      "name": "Composer",
+      "value": "Ben Smallwood"
+    }
+  ],
+  "categories": [
+    "Music Video"
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "repertoireOwners": [
+    "Island-Records"
+  ],
+  "created": "2016-02-08T11:05:05.28Z",
+  "modified": "2016-05-03T14:02:33.273Z",
+  "audioIsrc": "GBUM71507640",
+  "upcCode": "00602547760166    ",
+  "policy": {
+    "monetizable": [
+      "*"
+    ],
+    "viewable": [
+      "USA"
+    ]
+  },
+  "isrc": "GBUV71502150",
+  "title": "House Of Moody",
+  "urlSafeTitle": "House-Of-Moody",
+  "shortUrl": "http://vevo.ly/Yojis1",
+  "thumbnailUrl": "http://img.cache.vevo.com/thumb/cms/b7e54c21c26d233f4597085636c42068201682651472.jpg",
+  "artists": [
+    {
+      "artistId": 1158682,
+      "name": "Jimi Charles Moody",
+      "role": "Main",
+      "urlSafeName": "jimi-charles-moody",
+      "thumbnailUrl": "http://img.cache.vevo.com/thumb/cms/dbcc0e1038e49b481c362f326fd9fdc3201527711526367.jpg"
+    }
+  ],
+  "views": {
+    "total": 73242,
+    "lastMonth": 4998,
+    "lastWeek": 1107,
+    "lastDay": 170,
+    "modified": "2016-12-04T03:53:28.163Z"
+  }
+}

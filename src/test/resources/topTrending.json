@@ -1,0 +1,1886 @@
+{
+  "videos" : [ {
+    "contentProvider" : "UMGI",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Universal Music New Zealand Limited",
+    "duration" : "00:04:02.9980000",
+    "durationInMilliseconds" : 242998,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-03-02T19:00:00Z",
+    "youTubeId" : "dMK_npDG12Q",
+    "credits" : [ {
+      "name" : "Producer",
+      "value" : "Nina Soriano"
+    }, {
+      "name" : "Composer",
+      "value" : "Ella Yelich-O'Connor"
+    }, {
+      "name" : "Director",
+      "value" : "Grant Singer"
+    }, {
+      "name" : "Director",
+      "value" : "Saul Germaine"
+    }, {
+      "name" : "Composer",
+      "value" : "Jack Antonoff"
+    }, {
+      "name" : "Composer",
+      "value" : "Joel Little"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Pop" ],
+    "repertoireOwners" : [ "Universal-Music" ],
+    "streams" : [ {
+      "id" : 4916137,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:53:54.343Z"
+    }, {
+      "id" : 4916135,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:53:54.273Z"
+    }, {
+      "id" : 4916136,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:53:54.3Z"
+    }, {
+      "id" : 4916140,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:54:00.973Z"
+    }, {
+      "id" : 4916138,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:54:00.907Z"
+    }, {
+      "id" : 4916139,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/nzuv71700001_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-28T12:54:00.943Z"
+    }, {
+      "id" : 4916168,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-28T13:40:36.59Z"
+    }, {
+      "id" : 4916172,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-28T13:43:20.15Z"
+    }, {
+      "id" : 4916169,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-28T13:41:04.753Z"
+    }, {
+      "id" : 4916170,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/02/NZUV71700001/df88ef79-7896-463e-a3cb-3ef49b56b2a0/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-28T13:41:09.93Z"
+    } ],
+    "created" : "2017-02-28T12:46:10.543Z",
+    "modified" : "2017-03-06T14:58:27.753Z",
+    "audioIsrc" : "NZUM71700063",
+    "upcCode" : "00602557468243    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "NZUV71700001",
+    "title" : "Green Light",
+    "urlSafeTitle" : "Green-Light",
+    "shortUrl" : "http://vevo.ly/GCZMqN",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/66abb63e90f98c671e7f3f3b421ee0db201728212463193.jpg",
+    "artists" : [ {
+      "artistId" : 1060801,
+      "name" : "Lorde",
+      "role" : "Main",
+      "urlSafeName" : "lorde",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/5117509230bbc93f49769ef24554b786201327694935864.jpeg"
+    } ],
+    "views" : {
+      "total" : 16815834,
+      "lastMonth" : 16815834,
+      "lastWeek" : 16815834,
+      "lastDay" : 1277361,
+      "modified" : "2017-03-08T18:54:25.193Z"
+    }
+  }, {
+    "contentProvider" : "UMG",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Republic Records, a division of UMG Recordings, Inc.",
+    "duration" : "00:03:17.7800000",
+    "durationInMilliseconds" : 197780,
+    "hasLyrics" : false,
+    "isExplicit" : true,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-02-27T05:00:00Z",
+    "youTubeId" : "oHmBf4ExtZk",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Chris Marrs Piliero"
+    }, {
+      "name" : "Producer",
+      "value" : "Ilya"
+    }, {
+      "name" : "Composer",
+      "value" : "Savan Kotecha"
+    }, {
+      "name" : "Editor",
+      "value" : "Chris Marrs Piliero"
+    }, {
+      "name" : "Producer",
+      "value" : "Andrew Lerios"
+    }, {
+      "name" : "Composer",
+      "value" : "N. Wilburn"
+    }, {
+      "name" : "Composer",
+      "value" : "KnocDown"
+    }, {
+      "name" : "Producer",
+      "value" : "Alex Randall"
+    }, {
+      "name" : "Composer",
+      "value" : "Ariana Grande"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Pop" ],
+    "repertoireOwners" : [ "Universal-Records" ],
+    "streams" : [ {
+      "id" : 4912543,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:30.06Z",
+      "modified" : "2017-03-01T20:24:45.667Z"
+    }, {
+      "id" : 4912541,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:29.997Z",
+      "modified" : "2017-03-01T20:24:45.607Z"
+    }, {
+      "id" : 4912542,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:30.03Z",
+      "modified" : "2017-03-01T20:24:45.637Z"
+    }, {
+      "id" : 4912546,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:35.223Z",
+      "modified" : "2017-03-01T20:24:50.883Z"
+    }, {
+      "id" : 4912544,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:35.157Z",
+      "modified" : "2017-03-01T20:24:50.81Z"
+    }, {
+      "id" : 4912545,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:43:35.193Z",
+      "modified" : "2017-03-01T20:24:50.837Z"
+    }, {
+      "id" : 4912562,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:54:19.953Z",
+      "modified" : "2017-03-01T20:35:04.98Z"
+    }, {
+      "id" : 4912565,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:56:38.603Z",
+      "modified" : "2017-03-01T20:37:16.743Z"
+    }, {
+      "id" : 4912563,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:54:42.383Z",
+      "modified" : "2017-03-01T20:35:28.203Z"
+    }, {
+      "id" : 4912564,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-24T16:54:52.96Z",
+      "modified" : "2017-03-01T20:36:07.497Z"
+    }, {
+      "id" : 4918846,
+      "format" : "bif",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "BIF",
+      "url" : "http://bif-aws.vevo.com/v4/bif/2017/03/USUV71601298/17bd0ec9-92c0-48e6-b775-8cb07536f27f/usuv71601298_bif_640x360.bif",
+      "isEnabled" : true,
+      "created" : "2017-03-01T20:21:36.187Z"
+    } ],
+    "created" : "2017-02-24T16:38:50.403Z",
+    "modified" : "2017-03-02T11:51:15.12Z",
+    "audioIsrc" : "USUM71602110",
+    "upcCode" : "00602547968463    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "USUV71601298",
+    "title" : "Everyday",
+    "urlSafeTitle" : "Everyday",
+    "shortUrl" : "http://vevo.ly/i2QoPd",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/4f6ab0960c5c0f23a8b51eec4a3fb02a2017242163836411.jpg",
+    "artists" : [ {
+      "artistId" : 1032865,
+      "name" : "Ariana Grande",
+      "role" : "Main",
+      "urlSafeName" : "ariana-grande",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/7a3418c3559229950cc0577ed349bf46201611373230411.jpeg"
+    }, {
+      "artistId" : 1043767,
+      "name" : "Future",
+      "role" : "Featured",
+      "urlSafeName" : "future",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/172c064bb53aadc9990465c57e70db79201625162332617.jpeg"
+    } ],
+    "views" : {
+      "total" : 21538513,
+      "lastMonth" : 21538513,
+      "lastWeek" : 10674592,
+      "lastDay" : 1007411,
+      "modified" : "2017-03-08T18:54:24.957Z"
+    }
+  }, {
+    "contentProvider" : "Sony",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Epic Records, a division of Sony Music Entertainment / Keyshia Cole",
+    "duration" : "00:04:40.5120000",
+    "durationInMilliseconds" : 280512,
+    "hasLyrics" : false,
+    "isExplicit" : true,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-02-28T01:00:00Z",
+    "youTubeId" : "kl6t9j1qwlU",
+    "credits" : [ {
+      "name" : "Producer",
+      "value" : "Harmony \"H-Money\" Samuels"
+    }, {
+      "name" : "Director",
+      "value" : "Benny Boom"
+    }, {
+      "name" : "Composer",
+      "value" : "Harmony Samuels"
+    }, {
+      "name" : "Producer",
+      "value" : "Edgar \"JV\" Etienne"
+    }, {
+      "name" : "Composer",
+      "value" : "Theron Thomas"
+    }, {
+      "name" : "Composer",
+      "value" : "Timothy Thomas"
+    }, {
+      "name" : "Producer",
+      "value" : "Tay Hawes"
+    }, {
+      "name" : "Composer",
+      "value" : "Remy Smith"
+    }, {
+      "name" : "Composer",
+      "value" : "Karim Kharbouch"
+    }, {
+      "name" : "Composer",
+      "value" : "Attrell Cordes"
+    }, {
+      "name" : "Composer",
+      "value" : "Gary Kemp"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "R&B" ],
+    "repertoireOwners" : [ "Epic-Records-Group" ],
+    "streams" : [ {
+      "id" : 4912748,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:34.963Z"
+    }, {
+      "id" : 4912746,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:34.91Z"
+    }, {
+      "id" : 4912747,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:34.933Z"
+    }, {
+      "id" : 4912745,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:33.38Z"
+    }, {
+      "id" : 4912743,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:33.293Z"
+    }, {
+      "id" : 4912744,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/ussm21700192_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-24T19:50:33.35Z"
+    }, {
+      "id" : 4912891,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-24T21:00:32.233Z"
+    }, {
+      "id" : 4912899,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-24T21:04:28.507Z"
+    }, {
+      "id" : 4912894,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-24T21:01:28.587Z"
+    }, {
+      "id" : 4912893,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/02/USSM21700192/18e7fccc-cd29-4e4c-8fbe-feccf16b1937/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-24T21:01:25.943Z"
+    } ],
+    "created" : "2017-02-24T19:14:00.54Z",
+    "modified" : "2017-02-28T16:50:59.927Z",
+    "audioIsrc" : "USSM11700419",
+    "upcCode" : "886446373553      ",
+    "policy" : {
+      "monetizable" : [ "AI", "AU", "BM", "BR", "IO", "CA", "KY", "FK", "FR", "DE", "GI", "IE", "IT", "MX", "MS", "NL", "NZ", "PN", "PL", "PR", "SH", "GS", "ES", "TC", "GB", "US", "VG" ],
+      "viewable" : [ "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "SV", "GQ", "ER", "EE", "ET", "FO", "FK", "FJ", "FI", "FR", "GF", "PF", "TF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", "GU", "GT", "GN", "GW", "GY", "HT", "HM", "HN", "HK", "HU", "IS", "IN", "ID", "IE", "IL", "IT", "JM", "JP", "KZ", "KE", "KI", "KP", "KR", "KG", "LA", "LV", "LS", "LR", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MY", "MV", "ML", "MT", "MH", "MQ", "MR", "MU", "YT", "MX", "FM", "MD", "MC", "MN", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NC", "NZ", "NI", "NE", "NG", "NU", "NF", "MP", "NO", "PK", "PW", "PA", "PG", "PY", "PE", "PH", "PN", "PL", "PT", "PR", "RE", "RO", "RU", "RW", "SH", "KN", "LC", "PM", "VC", "WS", "SM", "ST", "SN", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "GS", "ES", "LK", "SR", "SJ", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "GB", "US", "UM", "UY", "UZ", "VU", "VA", "VE", "VN", "VG", "VI", "WF", "ZM", "ZW", "GG", "IM", "JE", "ME", "BL", "MF", "RS" ]
+    },
+    "isrc" : "USSM21700192",
+    "title" : "You",
+    "urlSafeTitle" : "You",
+    "shortUrl" : "http://vevo.ly/H83tFx",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/e97199bf8c50e8e1473e7dce27e1699e201724219134727.jpg",
+    "artists" : [ {
+      "artistId" : 1000885,
+      "name" : "Keyshia Cole",
+      "role" : "Main",
+      "urlSafeName" : "keyshia-cole",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/29c46048e5ed5891fbe1924dc8990376.jpeg"
+    }, {
+      "artistId" : 1047988,
+      "name" : "Remy Ma",
+      "role" : "Featured",
+      "urlSafeName" : "remy-ma",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/2dda09a66bf6233f341b3e8dc422e2d9.jpg"
+    }, {
+      "artistId" : 1054774,
+      "name" : "French Montana",
+      "role" : "Featured",
+      "urlSafeName" : "french-montana",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/61fa88eaf704091bfa2d99c67884c09d2016187151140138.jpg"
+    } ],
+    "views" : {
+      "total" : 4989187,
+      "lastMonth" : 4989187,
+      "lastWeek" : 3494239,
+      "lastDay" : 293369,
+      "modified" : "2017-03-08T18:54:24.493Z"
+    }
+  }, {
+    "contentProvider" : "UMG",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Capitol Latin",
+    "duration" : "00:04:05.7920000",
+    "durationInMilliseconds" : 245792,
+    "hasLyrics" : false,
+    "isExplicit" : true,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : false,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-03-04T00:00:00Z",
+    "youTubeId" : "Km4BayZykwE",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Orli Arias"
+    }, {
+      "name" : "Producer",
+      "value" : "Edgar Semper"
+    }, {
+      "name" : "Composer",
+      "value" : "Jose Alvaro Osorio Balvin"
+    }, {
+      "name" : "Producer",
+      "value" : "Xavier Semper"
+    }, {
+      "name" : "Composer",
+      "value" : "Benito Martinez"
+    }, {
+      "name" : "Producer",
+      "value" : "Luian Malave"
+    }, {
+      "name" : "Composer",
+      "value" : "Xavier Semper"
+    }, {
+      "name" : "Producer",
+      "value" : "Orli Arias"
+    }, {
+      "name" : "Composer",
+      "value" : "Edgar W. Semper"
+    }, {
+      "name" : "Composer",
+      "value" : "Luian Malave"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Latino" ],
+    "streams" : [ {
+      "id" : 4925397,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:29.827Z"
+    }, {
+      "id" : 4925395,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:29.647Z"
+    }, {
+      "id" : 4925396,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:29.737Z"
+    }, {
+      "id" : 4925400,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:36.663Z"
+    }, {
+      "id" : 4925398,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:36.477Z"
+    }, {
+      "id" : 4925399,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/usuv71700561_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-03T23:40:36.57Z"
+    }, {
+      "id" : 4925427,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-04T00:18:06.723Z"
+    }, {
+      "id" : 4925429,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-04T00:19:15.37Z"
+    }, {
+      "id" : 4925428,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-04T00:18:49.79Z"
+    }, {
+      "id" : 4925426,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/03/USUV71700561/37a87acd-b222-488b-a8b6-8f13febdcc95/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-04T00:17:57.933Z"
+    } ],
+    "created" : "2017-03-03T23:28:30.28Z",
+    "modified" : "2017-03-08T15:07:04.147Z",
+    "audioIsrc" : "USUM71702120",
+    "upcCode" : "00602557539578    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "USUV71700561",
+    "title" : "Si Tu Novio Te Deja Sola",
+    "urlSafeTitle" : "Si-Tu-Novio-Te-Deja-Sola",
+    "shortUrl" : "http://vevo.ly/tS92w7",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/7061c13f260e8472a2eaecf1248c6af420173323281635.jpg",
+    "artists" : [ {
+      "artistId" : 1062244,
+      "name" : "J Balvin",
+      "role" : "Main",
+      "urlSafeName" : "j-balvin",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/2793989ad80d050a992014cbcfdafbd32016135165656512.jpg"
+    }, {
+      "artistId" : 1227463,
+      "name" : "Bad Bunny",
+      "role" : "Featured",
+      "urlSafeName" : "bad-bunny"
+    } ],
+    "views" : {
+      "total" : 14093024,
+      "lastMonth" : 14093024,
+      "lastWeek" : 14093024,
+      "lastDay" : 1913720,
+      "modified" : "2017-03-08T18:54:25.04Z"
+    }
+  }, {
+    "contentProvider" : "Sony",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Epic Records, a division of Sony Music Entertainment",
+    "duration" : "00:02:43.7760000",
+    "durationInMilliseconds" : 163776,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-03-03T17:00:00Z",
+    "youTubeId" : "XyL3YKK_1BI",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Hannah Lux Davis"
+    }, {
+      "name" : "Producer",
+      "value" : "The Monsters & Strangerz"
+    }, {
+      "name" : "Composer",
+      "value" : "Martin Renea"
+    }, {
+      "name" : "Producer",
+      "value" : "Martin Renea"
+    }, {
+      "name" : "Producer",
+      "value" : "Angela Gregory"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Pop" ],
+    "repertoireOwners" : [ "Epic-Records-Group" ],
+    "streams" : [ {
+      "id" : 4921886,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:26.087Z"
+    }, {
+      "id" : 4921884,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:26.013Z"
+    }, {
+      "id" : 4921885,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:26.053Z"
+    }, {
+      "id" : 4921889,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:30.67Z"
+    }, {
+      "id" : 4921887,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:30.61Z"
+    }, {
+      "id" : 4921888,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/ussm21700283_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:35:30.64Z"
+    }, {
+      "id" : 4921985,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:49:33.723Z"
+    }, {
+      "id" : 4921966,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:46:21.343Z"
+    }, {
+      "id" : 4921956,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:44:59.76Z"
+    }, {
+      "id" : 4921957,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/03/USSM21700283/f4889038-d430-4491-89ab-958fb66bf0b8/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-02T20:45:01.28Z"
+    } ],
+    "created" : "2017-03-02T20:30:54.877Z",
+    "modified" : "2017-03-07T23:05:17.417Z",
+    "audioIsrc" : "USSM11610622",
+    "upcCode" : "886446410340      ",
+    "policy" : {
+      "monetizable" : [ "AI", "AU", "BM", "BR", "IO", "CA", "KY", "FK", "FR", "DE", "GI", "IE", "IT", "MX", "MS", "NL", "NZ", "PN", "PL", "PR", "SH", "GS", "ES", "TC", "GB", "US", "VG" ],
+      "viewable" : [ "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FK", "FJ", "FI", "FR", "GF", "PF", "TF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", "GU", "GT", "GN", "GW", "GY", "HT", "HM", "HN", "HK", "HU", "IS", "IN", "ID", "IR", "IQ", "IE", "IL", "IT", "JM", "JP", "JO", "KZ", "KE", "KI", "KP", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MY", "MV", "ML", "MT", "MH", "MQ", "MR", "MU", "YT", "MX", "FM", "MD", "MC", "MN", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NC", "NZ", "NI", "NE", "NG", "NU", "NF", "MP", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PN", "PL", "PT", "PR", "QA", "RE", "RO", "RU", "RW", "SH", "KN", "LC", "PM", "VC", "WS", "SM", "ST", "SA", "SN", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "GS", "ES", "LK", "SD", "SR", "SJ", "SZ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU", "VA", "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW", "GG", "IM", "JE", "ME", "BL", "MF", "RS" ]
+    },
+    "isrc" : "USSM21700283",
+    "title" : "I'm a Lady (From the motion picture SMURFS: THE LOST VILLAGE)",
+    "urlSafeTitle" : "Im-a-Lady-(From-the-motion-picture-SMURFS-THE-LOST-VILLAGE)",
+    "shortUrl" : "http://vevo.ly/CjWlTi",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/7b8b7c091bb32ef5f1d6369c26e025c4201773235946.jpg",
+    "artists" : [ {
+      "artistId" : 1092616,
+      "name" : "Meghan Trainor",
+      "role" : "Main",
+      "urlSafeName" : "meghan-trainor",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/b8558c0b4f8fd4b09a3d9c0a5327c028201621317214152.jpeg"
+    } ],
+    "views" : {
+      "total" : 4795377,
+      "lastMonth" : 4795377,
+      "lastWeek" : 4795377,
+      "lastDay" : 460509,
+      "modified" : "2017-03-08T18:54:24.493Z"
+    }
+  }, {
+    "contentProvider" : "UMG",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Capitol Records",
+    "duration" : "00:04:00.8240000",
+    "durationInMilliseconds" : 240824,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-02-21T05:00:00Z",
+    "youTubeId" : "Um7pMggPnug",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Mathew Cullen"
+    }, {
+      "name" : "Composer",
+      "value" : "Katy Perry"
+    }, {
+      "name" : "Producer",
+      "value" : "Max Martin"
+    }, {
+      "name" : "Composer",
+      "value" : "Max Martin"
+    }, {
+      "name" : "Producer",
+      "value" : "Ali Payami"
+    }, {
+      "name" : "Producer",
+      "value" : "Danny Lockwood"
+    }, {
+      "name" : "Composer",
+      "value" : "Sia Furler"
+    }, {
+      "name" : "Producer",
+      "value" : "Rob Newman"
+    }, {
+      "name" : "Composer",
+      "value" : "Ali Payami"
+    }, {
+      "name" : "Composer",
+      "value" : "Skip Marley"
+    }, {
+      "name" : "Producer",
+      "value" : "Ben Leiser"
+    }, {
+      "name" : "Producer",
+      "value" : "Javier Jimenez"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Pop" ],
+    "repertoireOwners" : [ "Capitol-US" ],
+    "streams" : [ {
+      "id" : 4904243,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:12.237Z"
+    }, {
+      "id" : 4904241,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:12.163Z"
+    }, {
+      "id" : 4904242,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:12.203Z"
+    }, {
+      "id" : 4904246,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:20.66Z"
+    }, {
+      "id" : 4904244,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:20.6Z"
+    }, {
+      "id" : 4904245,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/usuv71700290_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:12:20.627Z"
+    }, {
+      "id" : 4904257,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:33:54.767Z"
+    }, {
+      "id" : 4904260,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:36:33.067Z"
+    }, {
+      "id" : 4904258,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:34:22.263Z"
+    }, {
+      "id" : 4904259,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/02/USUV71700290/8915d93f-a0ab-437d-8ec1-1bdf55b2da7d/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-21T09:34:33.85Z"
+    } ],
+    "created" : "2017-02-21T09:00:53Z",
+    "modified" : "2017-03-03T01:01:53.503Z",
+    "audioIsrc" : "USUM71700560",
+    "upcCode" : "00602557454598    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "USUV71700290",
+    "title" : "Chained To The Rhythm (Official)",
+    "urlSafeTitle" : "Chained-To-The-Rhythm-(Official)",
+    "shortUrl" : "http://vevo.ly/d94UMt",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/efb20b6e782ddacc248d0d7fd37c16532017212904593.jpg",
+    "artists" : [ {
+      "artistId" : 1039687,
+      "name" : "Katy Perry",
+      "role" : "Main",
+      "urlSafeName" : "katy-perry",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/d29f946e54a8b55d42fd7c3c8292fb2920132310151933847.jpg"
+    }, {
+      "artistId" : 1234603,
+      "name" : "Skip Marley",
+      "role" : "Featured",
+      "urlSafeName" : "skip-marley",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/e2e62350-fd46-11e6-be35-a7d4df5dc82c.jpg"
+    } ],
+    "views" : {
+      "total" : 58236298,
+      "lastMonth" : 58236298,
+      "lastWeek" : 20089984,
+      "lastDay" : 2182510,
+      "modified" : "2017-03-08T18:54:25.04Z"
+    }
+  }, {
+    "contentProvider" : "Sony",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Kemosabe Records",
+    "duration" : "00:04:12.7790000",
+    "durationInMilliseconds" : 252779,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-03-03T05:00:00Z",
+    "youTubeId" : "y9q4_XicgsU",
+    "credits" : [ {
+      "name" : "Composer",
+      "value" : "Saul Alexander Castillo Vasquez"
+    }, {
+      "name" : "Composer",
+      "value" : "Mathieu Jomphe Lepine"
+    }, {
+      "name" : "Composer",
+      "value" : "Jeff Marco Martinez"
+    }, {
+      "name" : "Composer",
+      "value" : "Martin Rodriguez Vicente"
+    }, {
+      "name" : "Composer",
+      "value" : "Steven Dominguez"
+    }, {
+      "name" : "Composer",
+      "value" : "Rebbeca Marie Gomez"
+    }, {
+      "name" : "Composer",
+      "value" : "Gamal Lewis"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Latino", "Latin Pop" ],
+    "repertoireOwners" : [ "RCA-Records" ],
+    "streams" : [ {
+      "id" : 4916989,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:11.737Z"
+    }, {
+      "id" : 4916987,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:11.66Z"
+    }, {
+      "id" : 4916988,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:11.697Z"
+    }, {
+      "id" : 4916992,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:20.023Z"
+    }, {
+      "id" : 4916990,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:19.95Z"
+    }, {
+      "id" : 4916991,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/usrv81600878_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T02:00:19.98Z"
+    }, {
+      "id" : 4917194,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-01T03:31:35.493Z"
+    }, {
+      "id" : 4917221,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-01T03:34:50.973Z"
+    }, {
+      "id" : 4917201,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-01T03:32:00.39Z"
+    }, {
+      "id" : 4917202,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/03/USRV81600878/bdfb0627-2c1e-4dd2-a8ca-1aca0d182162/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-01T03:32:37.887Z"
+    } ],
+    "created" : "2017-03-01T00:37:30.117Z",
+    "modified" : "2017-03-02T22:59:06.1Z",
+    "audioIsrc" : "USRC11602782",
+    "upcCode" : "886446326184      ",
+    "policy" : {
+      "monetizable" : [ "AI", "AU", "BM", "BR", "IO", "CA", "KY", "FK", "FR", "DE", "GI", "IE", "IT", "MX", "MS", "NL", "NZ", "PN", "PL", "PR", "SH", "GS", "ES", "TC", "GB", "US", "VG" ],
+      "viewable" : [ "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FK", "FJ", "FI", "FR", "GF", "PF", "TF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", "GU", "GT", "GN", "GW", "GY", "HT", "HM", "HN", "HK", "HU", "IS", "IN", "ID", "IR", "IQ", "IE", "IL", "IT", "JM", "JP", "JO", "KZ", "KE", "KI", "KP", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MY", "MV", "ML", "MT", "MH", "MQ", "MR", "MU", "YT", "MX", "FM", "MD", "MC", "MN", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NC", "NZ", "NI", "NE", "NG", "NU", "NF", "MP", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PN", "PL", "PT", "PR", "QA", "RE", "RO", "RU", "RW", "SH", "KN", "LC", "PM", "VC", "WS", "SM", "ST", "SA", "SN", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "GS", "ES", "LK", "SD", "SR", "SJ", "SZ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU", "VA", "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW", "GG", "IM", "JE", "ME", "BL", "MF", "RS" ]
+    },
+    "isrc" : "USRV81600878",
+    "title" : "Todo Cambio (Official Video)",
+    "urlSafeTitle" : "Todo-Cambio-(Official-Video)",
+    "shortUrl" : "http://vevo.ly/uFW5Yp",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/f69f038706afbe9861e16b83e48bf5b520171303721674.jpg",
+    "artists" : [ {
+      "artistId" : 1077289,
+      "name" : "Becky G",
+      "role" : "Main",
+      "urlSafeName" : "becky-g",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/34260c66012914ea13e7b0b7d2edda522015208123741971.png"
+    } ],
+    "views" : {
+      "total" : 3581195,
+      "lastMonth" : 3581195,
+      "lastWeek" : 3581195,
+      "lastDay" : 358007,
+      "modified" : "2017-03-08T18:54:24.633Z"
+    }
+  }, {
+    "contentProvider" : "Sony",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Sony Music International, a division of Sony Music Entertainment",
+    "duration" : "00:03:52.5550000",
+    "durationInMilliseconds" : 232555,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-02-24T08:00:00Z",
+    "youTubeId" : "9sg-A-eS6Ig",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Alejandro Perez"
+    }, {
+      "name" : "Producer",
+      "value" : "Ernesto Riadigos"
+    }, {
+      "name" : "Composer",
+      "value" : "Carlos E. Ortiz Rivera"
+    }, {
+      "name" : "Composer",
+      "value" : "Felix Ortiz"
+    }, {
+      "name" : "Composer",
+      "value" : "Gabriel Pizarro"
+    }, {
+      "name" : "Composer",
+      "value" : "Juan G. Rivera"
+    }, {
+      "name" : "Composer",
+      "value" : "Luis E. Ortiz Rivera"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Latino", "Latin Pop", "Pop" ],
+    "repertoireOwners" : [ "RCA-Records" ],
+    "streams" : [ {
+      "id" : 4910933,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:46.96Z"
+    }, {
+      "id" : 4910931,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:46.887Z"
+    }, {
+      "id" : 4910932,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:46.917Z"
+    }, {
+      "id" : 4910936,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:51.92Z"
+    }, {
+      "id" : 4910934,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:51.85Z"
+    }, {
+      "id" : 4910935,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/usrv81700063_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-23T22:43:51.893Z"
+    }, {
+      "id" : 4910973,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-23T23:23:26.083Z"
+    }, {
+      "id" : 4910974,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-23T23:23:50.053Z"
+    }, {
+      "id" : 4910971,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-23T23:21:59.733Z"
+    }, {
+      "id" : 4910972,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/02/USRV81700063/7fa0c468-fa03-4e72-bfc4-864f8acba6ae/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-23T23:22:08.633Z"
+    } ],
+    "created" : "2017-02-23T22:37:20.457Z",
+    "modified" : "2017-03-02T22:39:11.773Z",
+    "audioIsrc" : "USRC11700058",
+    "upcCode" : "886446346663      ",
+    "policy" : {
+      "monetizable" : [ "AI", "AU", "BM", "BR", "IO", "CA", "KY", "FK", "FR", "DE", "GI", "IE", "IT", "MX", "MS", "NL", "NZ", "PN", "PL", "PR", "SH", "GS", "ES", "TC", "GB", "US", "VG" ],
+      "viewable" : [ "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FK", "FJ", "FI", "FR", "GF", "PF", "TF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", "GU", "GT", "GN", "GW", "GY", "HT", "HM", "HN", "HK", "HU", "IS", "IN", "ID", "IR", "IQ", "IE", "IL", "IT", "JM", "JP", "JO", "KZ", "KE", "KI", "KP", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MY", "MV", "ML", "MT", "MH", "MQ", "MR", "MU", "YT", "MX", "FM", "MD", "MC", "MN", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NC", "NZ", "NI", "NE", "NG", "NU", "NF", "MP", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PN", "PL", "PT", "PR", "QA", "RE", "RO", "RU", "RW", "SH", "KN", "LC", "PM", "VC", "WS", "SM", "ST", "SA", "SN", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "GS", "ES", "LK", "SD", "SR", "SJ", "SZ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU", "VA", "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW", "GG", "IM", "JE", "ME", "BL", "MF", "RS" ]
+    },
+    "isrc" : "USRV81700063",
+    "title" : "SUBEME LA RADIO (Official Video)",
+    "urlSafeTitle" : "SUBEME-LA-RADIO-(Official-Video)",
+    "shortUrl" : "http://vevo.ly/pLZCN1",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/1dabbdb057379328bc274ebf8984b1962017242153932752.jpg",
+    "artists" : [ {
+      "artistId" : 1013266,
+      "name" : "Enrique Iglesias",
+      "role" : "Main",
+      "urlSafeName" : "enrique-iglesias",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/10374d79ec6b0f876c0a70772df8c2872014184103656152.png"
+    }, {
+      "artistId" : 1001407,
+      "name" : "Descemer Bueno",
+      "role" : "Featured",
+      "urlSafeName" : "descemer-bueno",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/8d6de77127ce9745a7f00042c993191b.jpg"
+    }, {
+      "artistId" : 1101121,
+      "name" : "Zion & Lennox",
+      "role" : "Featured",
+      "urlSafeName" : "zion-lennox-1",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/2f0956f75cc1b35b18dcdfb7b4117bd3201495173239293.jpg"
+    } ],
+    "views" : {
+      "total" : 47014824,
+      "lastMonth" : 47014824,
+      "lastWeek" : 20146630,
+      "lastDay" : 1913797,
+      "modified" : "2017-03-08T18:54:25.477Z"
+    }
+  }, {
+    "contentProvider" : "UMG",
+    "year" : 2017,
+    "copyright" : "(C) 2017 Capitol Records Nashville",
+    "duration" : "00:03:45.4800000",
+    "durationInMilliseconds" : 225480,
+    "hasLyrics" : false,
+    "isExplicit" : false,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-03-03T05:00:00Z",
+    "youTubeId" : "QH35AWCnugg",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Michael Monaco"
+    }, {
+      "name" : "Producer",
+      "value" : "Jeff Stevens"
+    }, {
+      "name" : "Composer",
+      "value" : "Luke Bryan"
+    }, {
+      "name" : "Editor",
+      "value" : "Michael Monaco"
+    }, {
+      "name" : "Composer",
+      "value" : "Rodney Clawson"
+    }, {
+      "name" : "Producer",
+      "value" : "Jody Stevens"
+    }, {
+      "name" : "Producer",
+      "value" : "Ryan Schmidt"
+    }, {
+      "name" : "Composer",
+      "value" : "Luke Laird"
+    }, {
+      "name" : "Producer",
+      "value" : "Christen Pinkston"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "Country" ],
+    "repertoireOwners" : [ "Capitol-Records-Nashville" ],
+    "streams" : [ {
+      "id" : 4919191,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:46.203Z"
+    }, {
+      "id" : 4919189,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:46.15Z"
+    }, {
+      "id" : 4919190,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:46.177Z"
+    }, {
+      "id" : 4919194,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:53.883Z"
+    }, {
+      "id" : 4919192,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:53.81Z"
+    }, {
+      "id" : 4919193,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/usuv71700267_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:17:53.85Z"
+    }, {
+      "id" : 4919218,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:33:56.033Z"
+    }, {
+      "id" : 4919216,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:31:22.35Z"
+    }, {
+      "id" : 4919212,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:29:25.067Z"
+    }, {
+      "id" : 4919213,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/03/USUV71700267/d79e3f94-ce41-402d-ace7-08d792e9e669/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-03-01T21:29:29.717Z"
+    } ],
+    "created" : "2017-03-01T21:13:30.8Z",
+    "modified" : "2017-03-02T22:57:54.21Z",
+    "audioIsrc" : "USUM71508338",
+    "upcCode" : "00602557457582    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "USUV71700267",
+    "title" : "Fast",
+    "urlSafeTitle" : "Fast",
+    "shortUrl" : "http://vevo.ly/mRLPVF",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/a571787110654dd6d444c44afbd2765c201713211321101.jpg",
+    "artists" : [ {
+      "artistId" : 1069732,
+      "name" : "Luke Bryan",
+      "role" : "Main",
+      "urlSafeName" : "luke-bryan",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/8659c57f0a41f3fe22bcdc9ab60d021a201635191327272.jpg"
+    } ],
+    "views" : {
+      "total" : 707197,
+      "lastMonth" : 707197,
+      "lastWeek" : 707196,
+      "lastDay" : 88384,
+      "modified" : "2017-03-08T18:54:25.04Z"
+    }
+  }, {
+    "contentProvider" : "UMG",
+    "year" : 2017,
+    "copyright" : "(C) 2017 The Weeknd XO, Inc. Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.",
+    "duration" : "00:03:50.6520000",
+    "durationInMilliseconds" : 230652,
+    "hasLyrics" : false,
+    "isExplicit" : true,
+    "allowEmbed" : true,
+    "allowMobile" : true,
+    "isPremiere" : false,
+    "isUnlisted" : false,
+    "isLive" : false,
+    "isLift" : false,
+    "isCertified" : false,
+    "isOriginalContent" : false,
+    "isPrivate" : false,
+    "isActive" : true,
+    "isDeleted" : false,
+    "isOfficial" : true,
+    "isContentProviderOriginal" : false,
+    "isHd" : true,
+    "isPseudoVideo" : false,
+    "isPremiumLyricVideo" : false,
+    "isInterview" : false,
+    "isDocumentary" : false,
+    "isBehindTheScenes" : false,
+    "isSpecialEvent" : false,
+    "isTeaser" : false,
+    "isEpk" : false,
+    "isLongForm" : false,
+    "startDate" : "2017-02-16T17:00:00Z",
+    "youTubeId" : "JZjAg6fK-BQ",
+    "credits" : [ {
+      "name" : "Director",
+      "value" : "Kid. Studio"
+    }, {
+      "name" : "Producer",
+      "value" : "Doc McKinney"
+    }, {
+      "name" : "Composer",
+      "value" : "Abel Tesfaye"
+    }, {
+      "name" : "Editor",
+      "value" : "Red Barbaza"
+    }, {
+      "name" : "Composer",
+      "value" : "Emmanuel Nickerson"
+    }, {
+      "name" : "Producer",
+      "value" : "Mano"
+    }, {
+      "name" : "Producer",
+      "value" : "Cirkut"
+    }, {
+      "name" : "Composer",
+      "value" : "Martin Mckinney"
+    }, {
+      "name" : "Producer",
+      "value" : "Vince Tran"
+    }, {
+      "name" : "Composer",
+      "value" : "Dylan Wiggins"
+    }, {
+      "name" : "Producer",
+      "value" : "Ryan Hahn"
+    }, {
+      "name" : "Composer",
+      "value" : "Jason Quenneville"
+    }, {
+      "name" : "Composer",
+      "value" : "Henry Walter"
+    } ],
+    "categories" : [ "Music Video" ],
+    "genres" : [ "R&B" ],
+    "repertoireOwners" : [ "Universal-Republic-Records" ],
+    "streams" : [ {
+      "id" : 4894928,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "High",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:28:54.847Z"
+    }, {
+      "id" : 4894926,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Low",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:28:54.76Z"
+    }, {
+      "id" : 4894927,
+      "format" : "mp4",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "Med",
+      "url" : "http://h264-aka.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:28:54.787Z"
+    }, {
+      "id" : 4894931,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "High",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_high_1280x720_h264_2000_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:29:00.937Z"
+    }, {
+      "id" : 4894929,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Low",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_low_256x144_h264_200_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:29:00.867Z"
+    }, {
+      "id" : 4894930,
+      "format" : "mp4",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "Med",
+      "url" : "http://h264-aws.vevo.com/v3/h264/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/usumv1600691_med_640x360_h264_500_aac_128.mp4",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:29:00.897Z"
+    }, {
+      "id" : 4894983,
+      "format" : "hls",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aka.vevo.com/v3/hls/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:47:50.43Z"
+    }, {
+      "id" : 4894988,
+      "format" : "hls",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "HTTP Live Streaming",
+      "url" : "http://hls-aws.vevo.com/v3/hls/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/index.m3u8",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:50:13.16Z"
+    }, {
+      "id" : 4894973,
+      "format" : "mpd",
+      "hostingProvider" : "Akamai V2",
+      "version" : 2,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aka.vevo.com/v4/mpd/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:43:21.23Z"
+    }, {
+      "id" : 4894974,
+      "format" : "mpd",
+      "hostingProvider" : "Amazon",
+      "version" : 4,
+      "name" : "MPEG-DASH",
+      "url" : "http://mpd-aws.vevo.com/v4/mpd/2017/02/USUMV1600691/264e13c9-2edd-488f-bd2c-74dee84926ff/manifest.mpd",
+      "isEnabled" : true,
+      "created" : "2017-02-14T23:43:37.417Z"
+    } ],
+    "created" : "2017-02-14T23:14:41.51Z",
+    "modified" : "2017-02-27T17:29:08.93Z",
+    "audioIsrc" : "USUG11600998",
+    "upcCode" : "00602557393330    ",
+    "policy" : {
+      "monetizable" : [ "*" ],
+      "viewable" : [ "*" ]
+    },
+    "isrc" : "USUMV1600691",
+    "title" : "Reminder",
+    "urlSafeTitle" : "Reminder",
+    "shortUrl" : "http://vevo.ly/HwOiLG",
+    "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/0aee0cdd52523dd756bcd4bc8b10d0b32017142231432459.jpg",
+    "artists" : [ {
+      "artistId" : 1046398,
+      "name" : "The Weeknd",
+      "role" : "Main",
+      "urlSafeName" : "the-weeknd",
+      "thumbnailUrl" : "http://img.cache.vevo.com/thumb/cms/f8ab05cfc5167a2a204140009d8e5dce2015171541131.png"
+    } ],
+    "views" : {
+      "total" : 39829779,
+      "lastMonth" : 39829779,
+      "lastWeek" : 8620174,
+      "lastDay" : 895765,
+      "modified" : "2017-03-08T18:54:25.25Z"
+    }
+  } ],
+  "paging" : {
+    "next" : "http://vevo-toptrending-env.us-east-1.elasticbeanstalk.com/top-videos?genre=all&country=US&page=2&size=10",
+    "total" : 100,
+    "pages" : 10,
+    "size" : 10,
+    "page" : 1
+  }
+}

@@ -1,0 +1,23 @@
+target/
+logs/
+project/boot/
+TAGS/
+tags/
+.tags/
+.\#*
+.history
+.cache
+.DS_Store
+.vagrant
+*.swp
+native/
+## local overrides
+src/main/resources/local.conf
+.envrc
+## stringer
+.terraform/
+install/
+bin/
+stringer_build/
+.ensime*
+.ensime_cache/

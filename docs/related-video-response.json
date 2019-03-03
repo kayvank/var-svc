@@ -1,0 +1,44 @@
+[
+  {
+    "isMonetizable": false,
+    "categories": [
+      "Music Video"
+    ],
+    "artists": [
+      {
+        "artistId": 1105645,
+        "name": "Shawn Mendes",
+        "role": "Main",
+        "urlSafeName": "shawn-mendes",
+        "thumbnailUrl": "http://img.cache.vevo.com/thumb/cms/7c9f2081ede8544d30d1e18a406f043820168618516688.jpeg"
+      }
+    ],
+    "views": {
+      "total": 773282274,
+      "lastMonth": 105173146,
+      "lastWeek": 22884337,
+      "lastDay": 3253776,
+      "modified": "2017-03-10T03:55:22.419579Z"
+    },
+    "isOriginalContent": false,
+    "isCertified": false,
+    "isOfficial": true,
+    "isLift": false,
+    "isLive": false,
+    "isUnlisted": false,
+    "isPremiere": false,
+    "allowMobile": true,
+    "allowEmbed": true,
+    "isExplicit": false,
+    "hasLyrics": false,
+    "duration": 256.297,
+    "thumbnailUrl": "http://img.cache.vevo.com/thumb/cms/60adcc87e6faff282e092ee4f3f218cb201611721826333.jpg",
+    "shortUrl": "http://vevo.ly/XyVKEm",
+    "copyright": "(C) 2016 Island Records, a division of UMG Recordings, Inc.",
+    "year": 2016,
+    "urlSafeTitle": "Treat-You-Better",
+    "title": "Treat You Better",
+    "isrc": "USUV71601543",
+    "provider": "Liftigniter"
+  }
+]
